@@ -7,7 +7,5 @@ print(a,b)
 
 print(a+b)
 
-print('Bye...Bye")
 
-print("Byeeeeee")
 
